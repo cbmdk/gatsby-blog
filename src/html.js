@@ -46,10 +46,10 @@ const HTML = ({
         rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.1/jquery.fancybox.min.css"
       />
-      <link
+      {/* <link
         rel="stylesheet"
         href="https://denstorerejse.blob.core.windows.net/assets/screen.css"
-      />
+      /> */}
       {/* <link
         rel="stylesheet"
         href="styles/global.css"

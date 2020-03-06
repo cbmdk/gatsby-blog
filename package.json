@@ -18,7 +18,7 @@
     "eslint-plugin-jsx-a11y": "^6.1.1",
     "gatsby": "^2.2.1",
     "gatsby-cli": "^2.10.0",
-    "gatsby-link": "^2.0.16",
+    "gatsby-link": "^2.2.29",
     "gatsby-paginate": "^1.0.17",
     "gatsby-plugin-catch-links": "^2.0.13",
     "gatsby-plugin-feed": "^2.0.15",
@@ -46,13 +46,14 @@
     "prismjs": "^1.15.0",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
-    "react-ga": "^2.5.3",
+    "react-ga": "^2.7.0",
     "react-helmet": "^5.2.0",
     "react-transition-group": "^2.5.2",
     "reading-time": "^1.2.0",
     "rimraf": "^2.6.2",
     "smooth-scroll": "^16.0.0",
-    "webpack": "^4.19.0"
+    "webpack": "^4.19.0",
+    "prop-types": "^15.7.2"
   },
   "keywords": [
     "gatsby"

@@ -88,7 +88,6 @@ module.exports = ({ actions, graphql }) => {
       });
     });
 
-    // 創建標籤頁面
     return tagSet.forEach((tag) => {
       createPage({
         path: `/tag/${tag}`,

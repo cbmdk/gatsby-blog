@@ -36,7 +36,7 @@ const TagPage = ({ data, pageContext }) => {
           ))}
         </div>
 
-        <div className="col-xl-2 col-lg-1 order-3" />
+        {/* <div className="col-xl-2 col-lg-1 order-3" /> */}
       </div>
 
       <SEO
